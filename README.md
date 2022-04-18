@@ -22,7 +22,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ### Links
 
-- Live Site URL: [3-Column Preview Card](https://your-live-site-url.com)
+- Live Site URL: [3-Column Preview Card](https://cheytes.github.io/3-cloumn-preview-card/)
 
 ## My process
 
